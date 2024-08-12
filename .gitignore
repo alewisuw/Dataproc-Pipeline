@@ -1,2 +1,4 @@
 .vscode
 Dataproc-Pipeline.jar
+parquet_shrinker.py
+data/data_000000000000.parquet
